@@ -5,6 +5,11 @@ p {
 h1 {
   color: red;
 }
-a :hover {
+
+a {
+  color: cyan;
+}
+
+a:hover {
   color: blue;
 }
